@@ -1,2 +1,2 @@
 # Basic-Data-Analysis-Projects
-This repository will contain multiple Data Science projects using simple Machine Learning models
+This repository will contain multiple Data Analysis projects using Python as a programming language.
