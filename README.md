@@ -13,6 +13,8 @@ This repository was created to contain most of the basic data analysis projects 
 - EDA on census data
 - EDA on Udemy course data
 
+The above data analysis projects will contain it's own dataset in the respective folders.
+
 ## Libraries used:
 - Pandas
 - Numpy
