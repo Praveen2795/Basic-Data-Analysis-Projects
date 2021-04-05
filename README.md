@@ -2,7 +2,7 @@
 <h1 align="center">Basic Data Analysis Projects 📊 </h1>
 
 ## Motivation:
-This repository was created to contain most of the basic data analysis projects using Python as a programming language. The main aim for this repository is to share the topics of projects in a sequence along with it's datasets for the beginners to start learning with practical approach and ease.
+This repository was created to contain most of the basic data analysis projects using Python as a programming language. The main aim of this repository is to share the projects in a sequence along with it's datasets for the beginners to start learning with practical approach and ease.
 
 ## Table of Contents:
 - EDA on weather data
