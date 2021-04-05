@@ -23,6 +23,6 @@ The above data analysis projects will contain it's own dataset in the respective
 
 ## Credits:
 
-- Kaggle for datasets
+- <a href="https://www.w3schools.com/">Kaggle</a> for datasets
 - YouTube for tutorials 
 
