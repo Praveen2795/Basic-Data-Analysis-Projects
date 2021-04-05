@@ -16,10 +16,11 @@ This repository was created to contain most of the basic data analysis projects 
 The above data analysis projects will contain it's own dataset in the respective folders.
 
 ## Libraries used:
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
+- <a href="https://pandas.pydata.org/">Pandas</a>
+- <a href="https://numpy.org/">Numpy</a>
+- <a href="https://matplotlib.org/">Matplotlib</a>
+- <a href="https://seaborn.pydata.org/">Seaborn</a>
+- <a href="https://scikit-learn.org/stable/">scikit-learn</a>
 
 ## Credits:
 
