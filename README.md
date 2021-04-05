@@ -20,7 +20,7 @@ The above data analysis projects will contain it's own dataset in the respective
 - <a href="https://numpy.org/">Numpy</a>
 - <a href="https://matplotlib.org/">Matplotlib</a>
 - <a href="https://seaborn.pydata.org/">Seaborn</a>
-- <a href="https://scikit-learn.org/stable/">scikit-learn</a>
+- <a href="https://scikit-learn.org/stable/">Scikit-learn</a>
 
 ## Credits:
 
