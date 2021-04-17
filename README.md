@@ -8,6 +8,8 @@ The main aim of this repository is to share the basic data analysis projects usi
 - EDA on 911 calls
 - EDA on Google Apps.
 - EDA on IPL data
+- EDA on purchases
+- EDA on Titanic train data 
 - EDA on weather data
 - EDA on cars data
 - EDA on check post data
