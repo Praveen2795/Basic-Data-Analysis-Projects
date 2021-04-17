@@ -5,6 +5,9 @@
 The main aim of this repository is to share the basic data analysis projects using Python programming langauge in a sequence along with it's datasets for the beginners to start learning with practical approach and ease.
 
 ## Table of Contents:
+- EDA on 911 calls
+- EDA on Google Apps.
+- EDA on IPL data
 - EDA on weather data
 - EDA on cars data
 - EDA on check post data
