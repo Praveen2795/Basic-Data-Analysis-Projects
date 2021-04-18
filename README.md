@@ -18,6 +18,7 @@ The main aim of this repository is to share the basic data analysis projects usi
 - EDA on London house price data
 - EDA on census data
 - EDA on Udemy course data
+- EDA on salary data
 
 The above data analysis projects will contain it's own dataset in the respective folders.
 
