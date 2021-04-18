@@ -12,6 +12,7 @@ The main aim of this repository is to share the basic data analysis projects usi
 - EDA on Titanic train data 
 - EDA on weather data
 - EDA on cars data
+- EDA on cars data V2
 - EDA on check post data
 - EDA on COVID 19 data
 - EDA on London house price data
