@@ -1,6 +1,6 @@
 
 
-##Jist about Citi bank before you get into the data analysis of bank stocks
+### Jist about Citi bank before you get into the data analysis of bank stocks
 
 Collapse of Citigroup and US government intervention (2008)
 
